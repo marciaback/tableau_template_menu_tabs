@@ -7,10 +7,10 @@ Dashboard available on the Tableau Public website:
 https://public.tableau.com/app/profile/marcia.back/viz/TemplatewithMenuTabs/SALES-KPIA
 
 - Menu
-![image](https://github.com/marciaback/tableau_template_menu_tabs/assets/45545675/e37ec54c-eea7-4257-ba0c-cf03cf0372ce)
+![image](https://github.com/marciaback/tableau_template_menu_tabs/assets/45545675/966cdf68-b557-454c-9ee7-4eeab1030db3)
 
 - Tabs
 ![image](https://github.com/marciaback/tableau_template_menu_tabs/assets/45545675/674ed83f-973f-40ed-a908-b0d4df3f9db5)
 
 - Example
-![image](https://github.com/marciaback/tableau_template_menu_tabs/assets/45545675/081cdb4f-dfa6-4e0e-a43d-ca45a99f6419)
+![image](https://github.com/marciaback/tableau_template_menu_tabs/assets/45545675/5b0bd183-5877-42c3-9ec2-10cf09afd708)
