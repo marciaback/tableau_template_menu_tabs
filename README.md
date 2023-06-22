@@ -12,6 +12,6 @@ https://public.tableau.com/app/profile/marcia.back/viz/TemplatewithMenuTabs/SALE
 - Tabs
 ![image](https://github.com/marciaback/tableau_template_menu_tabs/assets/45545675/674ed83f-973f-40ed-a908-b0d4df3f9db5)
 
-- Example
+- Exemple
 ![image](https://github.com/marciaback/tableau_template_menu_tabs/assets/45545675/5b0bd183-5877-42c3-9ec2-10cf09afd708)
 
